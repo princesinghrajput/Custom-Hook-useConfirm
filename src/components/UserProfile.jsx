@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 
 const UserProfile = ({ confirm }) => {
   const [user, setUser] = useState({
-    name: 'John Doe',
-    email: 'john@example.com',
+    name: 'Prince',
+    email: 'psr@example.com',
     bio: 'I love coding!',
   });
   const [isEditing, setIsEditing] = useState(false);
