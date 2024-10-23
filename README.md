@@ -16,14 +16,14 @@ A powerful and flexible React custom hook for creating confirmation dialogs with
 
 ### Installation
 
-1. Clone the repository:   ```
+1. Clone the repository:   ```bash
    git clone https://github.com/your-username/useConfirm-hook.git
    cd useConfirm-hook   ```
 
-2. Install dependencies:   ```
+2. Install dependencies:   ```bash
    npm install   ```
 
-3. Start the development server:   ```
+3. Start the development server:   ```bash
    npm run dev   ```
 
 ### Usage
@@ -73,16 +73,8 @@ Modify the `CustomModal` component in `src/components/CustomModal.jsx` to change
 
 This project includes a dark mode feature. Toggle it using the button in the Settings component.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/useConfirm-hook/issues).
-
-## 📜 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/sahil-kumar-sharma">@prince-singh-rajput</a>
+  Made with ❤️ by <a href="https://github.com/princesinghrajput">@prince-singh-rajput</a>
 </p>
