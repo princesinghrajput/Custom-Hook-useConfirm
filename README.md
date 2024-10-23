@@ -73,10 +73,6 @@ You can customize the appearance of the confirmation dialog by modifying the `Cu
 
 This project includes a dark mode feature. To toggle dark mode, use the button in the Settings component. The dark mode is implemented using Tailwind CSS classes.
 
-## Contributing
+#Made with ❤️ by [@prince-singh-rajput](https://github.com/sahil-kumar-sharma)
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
